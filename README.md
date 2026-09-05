@@ -4,7 +4,11 @@ A responsive front-end dashboard built using HTML, Tailwind CSS, JavaScript, and
 
 ## Live Demo
 
-Live demo coming soon.
+[View Live Dashboard](https://sokhour5.github.io/responsive-dashboard/)
+
+## Preview
+
+![Responsive Dashboard Preview](dashboard-preview.png)
 
 ## Features
 
@@ -12,6 +16,7 @@ Live demo coming soon.
 - Mobile-friendly design
 - Interactive charts using Google Charts
 - Sales and expenses data visualisation
+- Task distribution visualisation
 - Responsive navigation and dashboard components
 - Utility-first styling with Tailwind CSS
 
